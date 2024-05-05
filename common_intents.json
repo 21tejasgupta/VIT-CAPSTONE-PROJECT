@@ -1,0 +1,77 @@
+{
+  "intents": [
+    {
+      "tag": "overview",
+      "patterns": [
+        "What is Alzheimer's disease?",
+        "Tell me about Alzheimer's",
+        "What do you know about Alzheimer's?",
+        "Overview of Alzheimer's",
+        "Alzheimer's disease information"
+      ],
+      "responses": [
+        "Alzheimer's disease is a progressive neurodegenerative disorder that affects the brain, resulting in memory loss, cognitive decline, and behavioral changes.",
+        "It is the most common cause of dementia, accounting for 60-80% of dementia cases.",
+        "The exact cause of Alzheimer's disease is not fully understood, but it is believed to involve a combination of genetic, environmental, and lifestyle factors.",
+        "As Alzheimer's disease progresses, individuals may experience difficulties with language, decision-making, and performing daily tasks.",
+        "There is currently no cure for Alzheimer's disease, but treatments and interventions are available to manage symptoms and improve quality of life."
+      ]
+    },
+    {
+      "tag": "symptoms",
+      "patterns": [
+        "What are the symptoms of Alzheimer's?",
+        "Signs of Alzheimer's disease",
+        "Alzheimer's symptoms",
+        "How do I recognize Alzheimer's?"
+      ],
+      "responses": [
+        "Common symptoms of Alzheimer's disease include memory loss, confusion, difficulty with language, changes in mood or behavior, and challenges with problem-solving.",
+        "In the early stages, individuals may experience mild forgetfulness, but as the disease progresses, symptoms become more severe and interfere with daily life.",
+        "It's important to note that not everyone with memory problems has Alzheimer's, and a thorough evaluation by a healthcare professional is necessary for diagnosis."
+      ]
+    },
+    {
+      "tag": "diagnosis",
+      "patterns": [
+        "How is Alzheimer's disease diagnosed?",
+        "Alzheimer's diagnosis process",
+        "Testing for Alzheimer's",
+        "Diagnostic procedures for Alzheimer's"
+      ],
+      "responses": [
+        "Diagnosing Alzheimer's disease involves a comprehensive assessment of medical history, cognitive testing, neurological exams, and imaging studies such as MRI or PET scans.",
+        "Healthcare professionals may also conduct blood tests to rule out other conditions that may cause similar symptoms.",
+        "Early diagnosis of Alzheimer's disease allows for better management of symptoms and access to treatments that may slow disease progression."
+      ]
+    },
+    {
+      "tag": "treatment",
+      "patterns": [
+        "What treatments are available for Alzheimer's?",
+        "Alzheimer's disease treatment options",
+        "Managing Alzheimer's symptoms",
+        "Medications for Alzheimer's"
+      ],
+      "responses": [
+        "While there is no cure for Alzheimer's disease, there are medications available to help manage symptoms and improve cognitive function.",
+        "These medications may include cholinesterase inhibitors and memantine, which work by regulating neurotransmitters in the brain.",
+        "Non-pharmacological interventions such as cognitive stimulation, physical exercise, and social engagement are also important components of Alzheimer's disease management."
+      ]
+    },
+    {
+      "tag": "caregiving",
+      "patterns": [
+        "How can I support someone with Alzheimer's?",
+        "Caring for a loved one with Alzheimer's",
+        "Tips for Alzheimer's caregivers",
+        "Supporting a family member with dementia"
+      ],
+      "responses": [
+        "Supporting someone with Alzheimer's disease requires patience, understanding, and empathy.",
+        "Create a safe and comfortable environment, establish routines, and provide assistance with daily activities as needed.",
+        "It's essential for caregivers to take care of their own physical and emotional well-being and seek support from healthcare professionals and support groups."
+      ]
+    }
+  ]
+}
